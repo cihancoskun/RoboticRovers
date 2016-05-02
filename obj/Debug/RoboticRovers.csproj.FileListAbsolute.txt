@@ -1,0 +1,12 @@
+c:\isbank\smn.mcoskun\documents\visual studio 2013\Projects\RoboticRovers\RoboticRovers\bin\Debug\RoboticRovers.exe.config
+c:\isbank\smn.mcoskun\documents\visual studio 2013\Projects\RoboticRovers\RoboticRovers\obj\Debug\RoboticRovers.csprojResolveAssemblyReference.cache
+c:\isbank\smn.mcoskun\documents\visual studio 2013\Projects\RoboticRovers\RoboticRovers\bin\Debug\RoboticRovers.exe
+c:\isbank\smn.mcoskun\documents\visual studio 2013\Projects\RoboticRovers\RoboticRovers\bin\Debug\RoboticRovers.pdb
+c:\isbank\smn.mcoskun\documents\visual studio 2013\Projects\RoboticRovers\RoboticRovers\obj\Debug\RoboticRovers.exe
+c:\isbank\smn.mcoskun\documents\visual studio 2013\Projects\RoboticRovers\RoboticRovers\obj\Debug\RoboticRovers.pdb
+C:\Users\Cihan\Desktop\RoboticRovers\RoboticRovers\bin\Debug\RoboticRovers.exe.config
+C:\Users\Cihan\Desktop\RoboticRovers\RoboticRovers\obj\Debug\RoboticRovers.exe
+C:\Users\Cihan\Desktop\RoboticRovers\RoboticRovers\obj\Debug\RoboticRovers.pdb
+C:\Users\Cihan\Desktop\RoboticRovers\RoboticRovers\obj\Debug\RoboticRovers.csprojResolveAssemblyReference.cache
+C:\Users\Cihan\Desktop\RoboticRovers\RoboticRovers\bin\Debug\RoboticRovers.exe
+C:\Users\Cihan\Desktop\RoboticRovers\RoboticRovers\bin\Debug\RoboticRovers.pdb
